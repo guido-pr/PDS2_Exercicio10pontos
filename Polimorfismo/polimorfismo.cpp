@@ -67,4 +67,6 @@ int main(){
         veiculo->exibirDados();
     }
 
+    return 0;
+
 }
